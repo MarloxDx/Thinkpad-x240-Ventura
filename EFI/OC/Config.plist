@@ -3044,7 +3044,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02812310GUHWVPFB</string>
+			<string></string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -3060,9 +3060,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02WGPYWHV29</string>
+			<string>000000000001</string>
 			<key>SystemUUID</key>
-			<string>9EFAA746-3F40-4100-8F3F-C18C3933A497</string>
+			<string>9EFAA346-3F40-4100-8F3F-C12C3933A497</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -3411,7 +3411,7 @@
 				<key>Address</key>
 				<integer>569344</integer>
 				<key>Comment</key>
-				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad T490</string>
+				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad X240</string>
 				<key>Enabled</key>
 				<false/>
 				<key>Size</key>
