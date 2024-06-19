@@ -16,7 +16,7 @@ This is efi for Thinkpad X240 working with Ventura.
  
 Current SMBIOS: MacBookPro11,4
 
-! IT IS NOT A STABLE VERSION !
+# ! IT IS NOT A STABLE VERSION ! #
 
 What works:
 
